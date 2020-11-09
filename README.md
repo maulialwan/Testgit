@@ -10,3 +10,10 @@ _Ini juga italic_
 **Ini bold**
 __Ini juga bold__
 *Ini* **kombinasi** *guys*
+
+- Ini bullet list 1
+- Ini bullet list 2
+  - Ini sublist 2
+  
+1. Ini list nomor 1
+2. Ini list nomor 2
