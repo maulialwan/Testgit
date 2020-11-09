@@ -5,15 +5,11 @@
 ##### Ini header 5
 ###### Ini header 6
 
-*Ini italic*
-
-_Ini juga italic_
-
-**Ini bold**
-
-__Ini juga bold__
-
-*Ini* **kombinasi** *guys*
+*Ini italic*  
+_Ini juga italic_  
+**Ini bold**  
+__Ini juga bold__  
+*Ini* **kombinasi** *guys*  
 
 - Ini bullet list 1
 - Ini bullet list 2
